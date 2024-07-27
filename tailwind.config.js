@@ -6,6 +6,7 @@ module.exports = {
       inter: ["Inter", "sans-serif"],
       "edu-sa": ["Edu SA Beginner", "cursive"],
       mono: ["Roboto Mono", "monospace"],
+      
     },
     colors: {
       white: "#fff",
@@ -125,11 +126,27 @@ module.exports = {
       },
     },
     extend: {
+      boxShadow: {
+        CustomGreen: 'rgba(53,93,58, 0.40) 25px 30px 48px, rgba(53,93,58, 0.50) 0px 10px 10px',
+      },
       maxWidth: {
         maxContent: "1260px",
         maxContentTab: "650px"
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss/plugin')(
+      function({addUtilities}) {
+        addUtilities({
+          '.backface-visible': {
+            'backface-visibility': 'visible',
+          },
+          '.backface-hidden': {
+            'backface-visibility': 'hidden',
+          }
+        })
+      }
+    )
+  ],
 };

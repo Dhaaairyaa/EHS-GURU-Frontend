@@ -1,0 +1,22 @@
+/* Service.css */
+
+/* For Firefox */
+.scrollbar-black {
+    scrollbar-color: black; /* thumb color */
+    scrollbar-width: thin; /* scrollbar width */
+  }
+  
+  /* For WebKit based browsers like Chrome and Safari */
+  .scrollbar-black::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .scrollbar-black::-webkit-scrollbar-track {
+    background: #f1f1f1; /* track color */
+  }
+  
+  .scrollbar-black::-webkit-scrollbar-thumb {
+    background-color: black; /* thumb color */
+    border-radius: 10px;
+  }
+  

@@ -23,5 +23,9 @@ export const displayData = [
         heading: "ESG",
         description: "Wide range of services of Environment Health and Safety from EHS/ISO Audits and Training to Disaster, Emergency and Risk management system.",
     },
+    {
+        heading:"EHS GURU SUSTAINABLE SOLUTIONS Pvt. Ltd.",
+        description:""
+    },
 ];
   
