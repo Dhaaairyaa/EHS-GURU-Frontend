@@ -13,7 +13,7 @@ const Footer = () => {
         window.location.href = `mailto:${email}`;
       };
   return (
-    <div className="bg-[#175b34] h-[400px]">
+    <div className="bg-[#152d5d] h-[400px]">
      <div>
          <div className="flex p-10">
             <div className="flex flex-col space-y-2 w-1/5">
@@ -39,7 +39,7 @@ const Footer = () => {
             <div className="bg-[#dedcdc] w-[1px] h-[320px] mx-10"></div>
             
             <div className="w-1/4 text-white">
-                <p className="text-lg">Corporate Office North </p>
+                <p className="text-xl text-bold">Corporate Office North </p>
                 <p className="ml-3">
                     <FontAwesomeIcon icon={faMapMarkerAlt} className="mr-2 text-white" />
                     116-117, 1st Floor, Bestech Chambers, Sushant Lok, Phase 1, Sector 43, Gurugram, 122002, Haryana 

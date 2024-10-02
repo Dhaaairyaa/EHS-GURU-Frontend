@@ -18,6 +18,7 @@
     "react-scroll-trigger": "^0.6.14",
     "react-smooth-image": "^1.1.0",
     "react-social-icons": "^6.16.0",
+    "react-toastify": "^10.0.5",
     "swiper": "^11.1.4",
     "web-vitals": "^2.1.4"
   },

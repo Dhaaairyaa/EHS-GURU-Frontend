@@ -13,10 +13,10 @@ const imageUrls = [
 
 const Hero = ({ setimageCount, imageCount, data }) => {
   imageCount=6;
-  const [imgUrl, setImgUrl] = useState(imageUrls[0]);
-  const [backgroundStyle, setBackgroundStyle] = useState({});
+  // const [imgUrl, setImgUrl] = useState(imageUrls[0]);
+  // const [backgroundStyle, setBackgroundStyle] = useState({});
   const [percent, setPercent] = useState(0);
-  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
+  // const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   useEffect(() => {
     const preloadImages = (urls) => {
@@ -49,18 +49,18 @@ const Hero = ({ setimageCount, imageCount, data }) => {
   //     });
   //   }
   // }, [imgUrl, mousePosition, imageCount]);
-
-  const handleMouseMove = (event) => {
-    setMousePosition({ x: event.clientX, y: event.clientY });
-  };
+ 
+  // const handleMouseMove = (event) => {
+  //   setMousePosition({ x: event.clientX, y: event.clientY });
+  // };
   const [videoLoaded, setVideoLoaded] = useState(false);
 
   const handleVideoLoad = () => {
     setVideoLoaded(true);
   };
-
+  // onMouseMove={handleMouseMove}
   return (
-    <div className="relative w-full min-h-screen hero container1 flex flex-col items-center justify-center pt-48" onMouseMove={handleMouseMove}>
+    <div className="relative w-full min-h-screen hero container1 flex flex-col items-center justify-center pt-48" >
       <div className="absolute inset-0 w-full h-full overflow-hidden">
         {!videoLoaded && (
           <img 
@@ -82,7 +82,19 @@ const Hero = ({ setimageCount, imageCount, data }) => {
         <div className="absolute inset-0 bg-gradient-to-b from-[rgba(9,9,9,0.6)] via-[rgba(12,13,13,0.6)] to-[rgba(9,9,9,0.6)]"></div>
       </div>
       <div className="relative z-10 text-center max-w-[800px] text-white">
-        <h1 className="text-6xl font-semibold"><span className="">EHS GURU </span> <span className="">SUSTAINABLE</span> SOLUTIONS  Pvt. Ltd.</h1>
+      <h1
+        className="text-6xl font-semibold"
+        // style={{
+        //   backgroundImage: 'url(https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/Slim%20Line%20EGSS%20Logo.png?alt=media&token=92a43e10-8aae-43e7-83dc-f75fe8f25924)',
+        //   backgroundSize: 'contain', // Adjusts the background size to fit the text
+        //   backgroundRepeat: 'no-repeat', // Prevents the image from repeating
+        //   backgroundPosition: 'center', // Centers the image in the text
+        //   WebkitBackgroundClip: 'text',
+        //   WebkitTextFillColor: 'transparent',
+        // }}
+      >
+        EHS GURU SUSTAINABLE SOLUTIONS Pvt. Ltd.
+      </h1>
       </div> 
       <div className="relative z-10 flex flex-row gap-x-4 mt-8 h-[70px] text-white items-center justify-center text-lg">
         <div>
@@ -102,7 +114,7 @@ const Hero = ({ setimageCount, imageCount, data }) => {
         </div>
         <div className="h-[50px] bg-white w-[2px]"></div>
         <div>
-          <Link to="/Ergonomics">Ergonomics</Link>
+          <Link to="/ergonomics">Ergonomics</Link>
         </div>
        
         
@@ -112,3 +124,6 @@ const Hero = ({ setimageCount, imageCount, data }) => {
 };
 
 export default Hero;
+
+
+//e4e6d49c825a46da974af3093bd1205d

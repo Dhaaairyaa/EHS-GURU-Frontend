@@ -28,14 +28,14 @@ const SuccessStory = () => {
           </div>
         </div>
         <div className="w-1/2 p-20">
-          <h1 className="text-5xl playfair-display-headingfont">
-            Our Success Story..
+          <h1 className="text-5xl ">
+            Our Success Story
           </h1>
           <p className="pt-5 text-md leading-8 tracking-wider">
             From a spark in September 2017, we've ignited into a global force. We've built a team of qualified EHS, ESG, Sustainability, and Safety professionals, now exceeding 1000+ satisfied clients across India, USA, UK, Denmark, Bhutan, Thailand, Australia, and more. Our unwavering commitment to excellence has earned us the trust of numerous businesses, making us a leading name in the EHS, ESG, and Sustainability industry.
           </p>
           <Link to="/more-info">
-            <div className="rounded-full relative inline-flex items-center px-5 py-1 mt-5 overflow-hidden text-lg font-medium border-2 border-[#175b34] bg-[#ECE8E0] text-[#175b34] hover:text-white group hover:bg-gray-50">
+            <div className="rounded-full relative inline-flex items-center px-5 py-1 mt-5 overflow-hidden text-lg font-medium border-2 border-black bg-[#ECE8E0] text-black hover:text-white group hover:bg-gray-50">
               <span className="absolute left-0 block w-full h-0 transition-all bg-[#175b34] opacity-100 group-hover:h-full top-1/2 group-hover:top-0 duration-400 ease"></span>
               <span className="relative">Know More</span>
             </div>
