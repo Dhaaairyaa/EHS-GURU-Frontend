@@ -11,9 +11,9 @@ const Footer = () => {
       };
     const handleEmailClick = () => {
         window.location.href = `mailto:${email}`;
-      };
+      };//152d5d
   return (
-    <div className="bg-[#152d5d] h-[400px]">
+    <div className="bg-[#175B34] h-[400px]">
      <div>
          <div className="flex p-10">
             <div className="flex flex-col space-y-2 w-1/5">

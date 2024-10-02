@@ -14,7 +14,7 @@ const EmployeeData = [
 
         Email:"archana@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/archana-bhatnagar-7254351a8/",
-        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/TestimonialImages%2Fpexels-cliff-booth-4058316.jpg?alt=media&token=211ea652-edaf-4100-b9b1-e139f7cad83c"
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FArchana%20Bhatnagar.png?alt=media&token=5a0c9a39-b084-44cc-9918-f9537249c1db"
     },
     {
         name:"Dr. Ashish Mittal",
@@ -33,7 +33,7 @@ const EmployeeData = [
 
         Email:"info@ohs-mcs.org",
         Linkedin:"https://www.linkedin.com/in/dr-ashish-mittal-a6667118/",
-        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/TestimonialImages%2Fpexels-stefanstefancik-91227.jpg?alt=media&token=7666ef7a-aadd-4ba9-ad61-acdcc0ce0a46"
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FAshish%20Mittal.png?alt=media&token=27ceea5b-8fcb-43f9-bbfb-654aaef14d35"
     },
 
     {
@@ -45,7 +45,7 @@ const EmployeeData = [
        
         Email:"vinita@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/vinitasahitya/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FVineeta.png?alt=media&token=c58e42ee-d0b6-4ef6-921b-284fb31fe22a"
     },
     {
         name:"Veena Gupta",
@@ -60,7 +60,7 @@ const EmployeeData = [
 
         Email:"seam4business@gmail.com",
         Linkedin:"https://www.linkedin.com/in/veena-gupta-llb-author-executive-protection-practitioner-tedx-speaker-ep-6229b623/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2Fveena%20gupta.png?alt=media&token=50debfbd-4442-4170-aeea-80703fae5002"
     },
     {
         name:"Dr. Gireesh Kant",
@@ -77,7 +77,7 @@ const EmployeeData = [
 
         Email:" gireeshkant@gmail.com",
         Linkedin:"https://www.linkedin.com/in/dr-gireesh-kant-snehi-30230b52/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FDr.%20Gireesh.png?alt=media&token=4142c3b0-6808-4fe0-85c0-2497d1de2df4"
     },
     {
         name:"Munish Kumar",
@@ -100,7 +100,7 @@ const EmployeeData = [
         ],
         Email:"munishk@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/munishegss/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FMunish%20Kumar.png?alt=media&token=09a4e5b2-c837-49ca-a03f-c0c951319fe4"
     },
     {
         name:"Neeraj Khare",
@@ -118,7 +118,7 @@ const EmployeeData = [
         ],
         Email:"neerajk@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/niraj-khare-1bb746248/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FNeeraj%20Khare.png?alt=media&token=e72f92c1-fa35-4002-adf3-4ee831220fab"
     },
     {
         name:"A. Devanand",
@@ -139,7 +139,7 @@ const EmployeeData = [
         ],
         Email:"devanand.a@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/devanand-babu-70627a24/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FA.%20Devanand.png?alt=media&token=1309f75f-bcea-4b56-91c5-38d303705913"
     },
     {
         name:"Ashwani Kumar Jha",
@@ -161,7 +161,7 @@ const EmployeeData = [
         ],
         Email:"ashwani@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/ashwani-kr-jha/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FAshwani%20Kr.%20Jha.png?alt=media&token=4986de21-e37d-4db2-8031-18204d4ec2fe"
     },
     {
         name:"Anuj Singh",
@@ -176,7 +176,7 @@ const EmployeeData = [
 
         Email:"anuj@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/anujsingh2610/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FAnuj.png?alt=media&token=16810c03-a72b-4bc3-b46b-38f38dcef0f4"
     },
     
     
@@ -193,7 +193,7 @@ const EmployeeData = [
 
         Email:"mohini@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/mohini-arora-06891b129/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FMohini%20Arora.png?alt=media&token=7598e134-4200-44de-949d-d3d5002d112b"
     },
     {
         name:"Shikha Sharma",
@@ -225,7 +225,7 @@ const EmployeeData = [
 
         Email:"sunanda@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/sushree-sunanda-sahu-274191246/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2Fshikha%20sharma.png?alt=media&token=f1002ee4-87e2-4c6a-9fb1-ad3f36bcb3b7"
     },    
     {
         name:"Amit Kumar",
@@ -239,7 +239,7 @@ const EmployeeData = [
 
         Email:"amit@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/amit-kumar-0054731b6/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FAmit.png?alt=media&token=0f9c9bc6-9c3b-4e88-9b52-f60022becdad"
     },
     
     {
@@ -254,7 +254,7 @@ const EmployeeData = [
 
         Email:"kirti@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/kirti-jha-22199b158/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2Fkirtijha.png?alt=media&token=fcf0de20-1d31-46e1-84a9-122ece6dfe99"
     },
     {
         name:"Hridishruti Saikai",
@@ -270,7 +270,7 @@ const EmployeeData = [
 
         Email:"hridishruti@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/hridishruti-saikia-0466691b3/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FHridishruti.png?alt=media&token=7fbe9cf9-1451-4390-b256-2b800162c03c"
     },
     
     {
@@ -286,7 +286,7 @@ const EmployeeData = [
 
         Email:" bhavya@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/bhavya-singh-82b668180/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FBhavya.png?alt=media&token=b3723024-90dd-426b-aba0-20a43d77c9c8"
     },
     {
         name:"Nikita Kumari",
@@ -301,7 +301,7 @@ const EmployeeData = [
 
         Email:"nikita@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/nikita-rupyal-00b242207/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FNikita.png?alt=media&token=b661f171-8a10-4b7c-9480-946cc6556dbd"
     },
     {
         name:"Kavita Rathore",
@@ -332,7 +332,7 @@ const EmployeeData = [
        
         Email:"shubham.s@ehsguru.com",
         Linkedin:"www.linkedin.com/in/shubham-sharma-gifiree-audit-consultant-ehs-professional-63866a1b8",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FShubham%20Sharma.png?alt=media&token=e4a25acf-bdef-4f2b-acc5-a7b3f3ff3962"
     },
     {
         name:"Nimisha Sharma",
@@ -347,7 +347,7 @@ const EmployeeData = [
         
         Email:"nimisha@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/nimisha-sharma-9193231a8/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FNimisha.png?alt=media&token=0c25e4e5-2147-4e6f-97aa-2bbf908deab3"
     },
     {
         name:"Lakshita Sharma",
@@ -363,7 +363,7 @@ const EmployeeData = [
         
         Email:"lakshita@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/lakshita-sharma-717a20265/",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FLakshita%20Sharma.png?alt=media&token=006e8d31-0d58-45c1-9e46-59001e5c2220"
     },
     {
         name:"Himanshi Yadav",
@@ -383,7 +383,7 @@ const EmployeeData = [
         // ],
         Email:"himanshi@ehsguru.com",
         Linkedin:"https://www.linkedin.com/in/himanshi-y-928360236",
-        ImgrUrl:""
+        ImgrUrl:"https://firebasestorage.googleapis.com/v0/b/ehsguru-10.appspot.com/o/teams_image%2FHimanshi.png?alt=media&token=17d0bc3b-372e-49b3-a61c-6f352c6b8d2b"
     },
     
 ]
